@@ -1,0 +1,8 @@
+0 battery
+1 cardboard
+2 glass
+3 leather
+4 medical
+5 metal
+6 plastic
+7 wood
