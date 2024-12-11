@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/692029c1-9530-42e0-a31a-35309161f9df
+
 # E-Waste Management Application
 
 This application provides an interactive solution for classifying e-waste using a pre-trained Keras model. Users can input images of waste materials through a webcam or file upload, and the application predicts the type of waste and provides appropriate guidance based on its classification.
@@ -54,6 +58,9 @@ GIFs: Recycle and non-recycle bin animations in bin_images/ directory.
 Start the Streamlit server by running:
 
 streamlit run app.py
+# Live video for this project
+https://github.com/user-attachments/assets/0a04394a-e905-4cfd-aad5-00eb935bdb85
+
 
 ## Project Structure
 ```bash
