@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/692029c1-9530-42e0-a31a-35309161f9df
-
 # E-Waste Management Application
 
 This application provides an interactive solution for classifying e-waste using a pre-trained Keras model. Users can input images of waste materials through a webcam or file upload, and the application predicts the type of waste and provides appropriate guidance based on its classification.
